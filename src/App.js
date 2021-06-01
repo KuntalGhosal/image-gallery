@@ -3,7 +3,7 @@ import Gallery1 from "./components/Gallery";
 
 function App() {
   return (
-    <div>
+    <div >
       <Gallery1/>
     </div>
   );
